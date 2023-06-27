@@ -1,0 +1,14 @@
+.button {
+  border: none;
+  border-radius: 5%;
+  margin: 10px;
+  padding: 10px 50px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.header {
+  text-align: center;
+}
